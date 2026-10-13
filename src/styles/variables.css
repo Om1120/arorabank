@@ -1,0 +1,45 @@
+:root {
+  --aurora-navy-darkest: #070e1c;
+  --aurora-navy-dark: #0A192F;
+  --aurora-navy: #0F172A;
+  --aurora-navy-light: #1E293B;
+  --aurora-navy-muted: #334155;
+
+  --aurora-emerald: #059669;
+  --aurora-emerald-light: #10B981;
+  --aurora-emerald-subtle: #D1FAE5;
+  --aurora-emerald-bg: #ECFDF5;
+  --aurora-emerald-dark: #047857;
+
+  --aurora-gold: #F59E0B;
+  --aurora-gold-bg: #FFFBEB;
+  --aurora-crimson: #EF4444;
+  --aurora-crimson-bg: #FEF2F2;
+  --aurora-blue: #2563EB;
+  --aurora-blue-bg: #EFF6FF;
+
+  --aurora-bg: #F8FAFC;
+  --aurora-surface: #FFFFFF;
+  --aurora-surface-alt: #F1F5F9;
+  --aurora-border: #E2E8F0;
+  --aurora-border-focus: #10B981;
+  --aurora-text-primary: #0F172A;
+  --aurora-text-secondary: #475569;
+  --aurora-text-muted: #94A3B8;
+
+  --aurora-shadow-sm: 0 1px 2px 0 rgba(15, 23, 42, 0.05);
+  --aurora-shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.07), 0 2px 4px -2px rgba(15, 23, 42, 0.05);
+  --aurora-shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -4px rgba(15, 23, 42, 0.03);
+  --aurora-shadow-xl: 0 20px 25px -5px rgba(15, 23, 42, 0.1), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
+  --aurora-shadow-emerald: 0 10px 20px -5px rgba(16, 185, 129, 0.25);
+
+  --aurora-radius-sm: 6px;
+  --aurora-radius-md: 10px;
+  --aurora-radius-lg: 14px;
+  --aurora-radius-xl: 20px;
+  --aurora-radius-full: 9999px;
+
+  --font-main: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: 'Outfit', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
